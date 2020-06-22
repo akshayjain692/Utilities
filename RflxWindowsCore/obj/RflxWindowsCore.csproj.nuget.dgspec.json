@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\akshay office\\rflx-win-commons\\trunk\\RflxWindowsCore\\RflxWindowsCore.csproj": {}
+  },
+  "projects": {
+    "E:\\akshay office\\rflx-win-commons\\trunk\\RflxWindowsCore\\RflxWindowsCore.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\akshay office\\rflx-win-commons\\trunk\\RflxWindowsCore\\RflxWindowsCore.csproj",
+        "projectName": "RflxWindowsCore",
+        "projectPath": "E:\\akshay office\\rflx-win-commons\\trunk\\RflxWindowsCore\\RflxWindowsCore.csproj",
+        "projectJsonPath": "E:\\akshay office\\rflx-win-commons\\trunk\\RflxWindowsCore\\project.json",
+        "packagesPath": "C:\\Users\\rimij\\.nuget\\packages\\",
+        "outputPath": "E:\\akshay office\\rflx-win-commons\\trunk\\RflxWindowsCore\\obj\\",
+        "projectStyle": "ProjectJson",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rimij\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        }
+      },
+      "dependencies": {
+        "Microsoft.NETCore.UniversalWindowsPlatform": "[5.0.0, )",
+        "Microsoft.Toolkit.Uwp.Notifications": "[2.0.0, )"
+      },
+      "frameworks": {
+        "uap10.0.10240": {}
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

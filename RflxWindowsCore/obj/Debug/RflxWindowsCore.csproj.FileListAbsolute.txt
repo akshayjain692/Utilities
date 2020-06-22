@@ -1,0 +1,44 @@
+E:\SVN\rflx-win-commons\trunk\RflxWindowsCore\bin\Debug\RflxWindowsCore.dll
+E:\SVN\rflx-win-commons\trunk\RflxWindowsCore\bin\Debug\RflxWindowsCore.pdb
+E:\SVN\rflx-win-commons\trunk\RflxWindowsCore\bin\Debug\RflxWindowsCore.pri
+E:\SVN\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\RflxWindowsCore.csproj.CoreCompileInputs.cache
+E:\SVN\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\RflxWindowsCore.dll
+E:\SVN\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\RflxWindowsCore.pdb
+E:\SVN\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\priconfig.xml
+E:\SVN\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\priconfig.xml.intermediate
+E:\SVN\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\unfiltered.layout.resfiles
+E:\SVN\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\unfiltered.layout.resfiles.intermediate
+E:\SVN\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\filtered.layout.resfiles
+E:\SVN\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\filtered.layout.resfiles.intermediate
+E:\SVN\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\excluded.layout.resfiles
+E:\SVN\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\excluded.layout.resfiles.intermediate
+E:\SVN\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\resources.resfiles
+E:\SVN\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\resources.resfiles.intermediate
+E:\SVN\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\pri.resfiles
+E:\SVN\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\pri.resfiles.intermediate
+E:\SVN\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\qualifiers.txt
+E:\SVN\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\qualifiers.txt.intermediate
+E:\SVN\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\SVN\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\RflxWindowsCore.csprojAssemblyReference.cache
+E:\akshay office\rflx-win-commons\trunk\RflxWindowsCore\bin\Debug\RflxWindowsCore.dll
+E:\akshay office\rflx-win-commons\trunk\RflxWindowsCore\bin\Debug\RflxWindowsCore.pdb
+E:\akshay office\rflx-win-commons\trunk\RflxWindowsCore\bin\Debug\RflxWindowsCore.pri
+E:\akshay office\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\RflxWindowsCore.csprojAssemblyReference.cache
+E:\akshay office\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\RflxWindowsCore.csproj.CoreCompileInputs.cache
+E:\akshay office\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\RflxWindowsCore.dll
+E:\akshay office\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\RflxWindowsCore.pdb
+E:\akshay office\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\priconfig.xml
+E:\akshay office\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\priconfig.xml.intermediate
+E:\akshay office\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\unfiltered.layout.resfiles
+E:\akshay office\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\unfiltered.layout.resfiles.intermediate
+E:\akshay office\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\filtered.layout.resfiles
+E:\akshay office\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\filtered.layout.resfiles.intermediate
+E:\akshay office\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\excluded.layout.resfiles
+E:\akshay office\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\excluded.layout.resfiles.intermediate
+E:\akshay office\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\resources.resfiles
+E:\akshay office\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\resources.resfiles.intermediate
+E:\akshay office\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\pri.resfiles
+E:\akshay office\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\pri.resfiles.intermediate
+E:\akshay office\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\qualifiers.txt
+E:\akshay office\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\qualifiers.txt.intermediate
+E:\akshay office\rflx-win-commons\trunk\RflxWindowsCore\obj\Debug\MultipleQualifiersPerDimensionFound.txt
